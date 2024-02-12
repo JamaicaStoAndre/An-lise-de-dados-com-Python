@@ -1,4 +1,4 @@
-# Analise_de_dados_com_Python
+# Analise de dados com Python
 Função: analisar base de dados e com os dados tomar decisões.
 Desafio:
 Você trabalha em uma empresa de telecom e tem clientes de vários serviços diferentes, entre os principais: internet e telefone.
